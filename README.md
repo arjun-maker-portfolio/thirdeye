@@ -2,7 +2,14 @@
 
 A camera-based prototype for assessing approaching cars, motivated by the difficulty of crossing roads in unpredictable traffic in India. It estimates vehicle motion and adds coloured warnings and pitch-coded beeps to a video.
 
-**[Annotated demo with sound](output.mp4)** · [Input video from YouTube](videodemo.mp4)
+[Input video from YouTube](videodemo.mp4)
+
+**[Annotated demo with sound](output.mp4)**
+
+https://github.com/user-attachments/assets/513f4d69-0126-4e04-b8a7-0ddb952b5410 
+
+
+
 
 ## Run
 
