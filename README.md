@@ -6,9 +6,9 @@ A camera-based prototype for assessing approaching cars, motivated by the diffic
 
 **[Annotated demo with sound](output.mp4)**
 
-https://github.com/user-attachments/assets/513f4d69-0126-4e04-b8a7-0ddb952b5410 
 
 
+https://github.com/user-attachments/assets/035e129b-3d32-4c01-8308-1665633ae574
 
 
 ## Run
